@@ -1,38 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-permalink:           pretty
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title:               Prathap Rajaraman
-tagline:             My Data Science Blog
-url:                 https://prathapr91.github.io
-paginate:            2
-baseurl:             ""
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Prathap Rajaraman
-  url:               https://linkedin.com/in/prathaprajaraman/
-  email:             prathap.rajaraman@gmail.com
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
 
 # Custom vars
-version:             2.0.0
+version:          2.1.0
+
 github:
-  repo:              https://github.com/prathapr91
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-
-# Page List
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/index.html'
+  repo:           https://github.com/poole/hyde
