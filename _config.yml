@@ -10,7 +10,7 @@ title:               Prathap Rajaraman
 tagline:             My Data Science Blog
 url:                 https://prathapr91.github.io
 paginate:            2
-baseurl:             ""
+baseurl:             https://prathapr91.github.io
 
 # Assets
 #
