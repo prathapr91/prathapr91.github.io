@@ -4,6 +4,8 @@ highlighter:      pygments
 
 # Permalinks
 permalink:           pretty
+relative_permalinks: true
+
 
 # Setup
 title:               Prathap Rajaraman
@@ -31,12 +33,12 @@ github:
   repo:              https://github.com/prathapr91
 
 # Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# gems:
+#   - jekyll-paginate
+#   - jekyll-gist
 
 # Page List
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/index.html'
+# pages_list:       
+#   About: '/about'
+#   Archive: '/archive'
+#   Feed: '/index.html'
