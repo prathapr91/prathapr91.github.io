@@ -9,16 +9,16 @@ permalink:           pretty
 # Setup
 title:               Prathap Rajaraman
 tagline:             My Data Science Blog
-url:                 https://prathapr91.github.io
-paginate:            2
-baseurl:             https://prathapr91.github.io
+url:                 https://prathapr91.github.io/
+paginate:            5
+baseurl:             https://prathapr91.github.io/
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
-# sass:
-#   sass_dir:          _sass
-#   style:            :compressed
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 # About/contact
 author:
@@ -27,14 +27,14 @@ author:
   email:             prathap.rajaraman@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             2.1.0
 github:
   repo:              https://github.com/prathapr91
 
 # Gems
-# gems:
-#   - jekyll-paginate
-#   - jekyll-gist
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Page List
 # pages_list:       
