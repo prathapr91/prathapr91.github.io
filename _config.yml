@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:           pretty
-relative_permalinks: true
 
 
 # Setup
@@ -17,9 +16,9 @@ baseurl:             https://prathapr91.github.io
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+# sass:
+#   sass_dir:          _sass
+#   style:            :compressed
 
 # About/contact
 author:
