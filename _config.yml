@@ -49,6 +49,9 @@ version:             2.1.0
 github:
   repo:              https://github.com/prathapr91
 
+plugins:
+  - jekyll-time-to-read
+
 # Gems
 gems:
   - jekyll-paginate
