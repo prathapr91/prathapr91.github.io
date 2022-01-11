@@ -26,6 +26,23 @@ author:
   name:              Prathap Rajaraman
   url:               https://linkedin.com/in/prathaprajaraman/
   email:             prathap.rajaraman@gmail.com
+links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/prathapr91"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/prathaprajaraman/"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/prathapr91"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/prathapr91/"
 
 # Custom vars
 version:             2.1.0
