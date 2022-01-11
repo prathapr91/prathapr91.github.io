@@ -26,7 +26,7 @@ author:
   name:              Prathap Rajaraman
   url:               https://linkedin.com/in/prathaprajaraman/
   email:             prathap.rajaraman@gmail.com
-links:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/prathapr91"
