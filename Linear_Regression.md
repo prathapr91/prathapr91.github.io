@@ -1,11 +1,11 @@
 ---
-title: Linear Regression Project
+title: Linear Regression & the NBA
 
 ---
 
 ## **Predicting NBA Player Salary using Linear Regression and Web Scraping**
 
-This is my second project as part of the Metis Data Science Bootcamp. Here, I web-scraped NBA player statistics from [Basketball-Reference](www.basketball-reference.com) to build a linear regression model to predict their salary.
+This is my second project as part of the Metis Data Science Bootcamp. Here, I web-scraped NBA player statistics from [Basketball-Reference](https://www.basketball-reference.com) to build a linear regression model to predict their salary.
 
 
 
@@ -29,7 +29,7 @@ After data cleaning and manipulation, I split the data into training and test se
 
 I will be web scraping via BeautifulSoup from the following sources:
 
-- Player statistics from the 2017-2018 to 2020-2021 seasons taken from [Basketball-Reference](www.basketball-reference.com)
+- Player statistics from the 2017-2018 to 2020-2021 seasons taken from [Basketball-Reference](https://www.basketball-reference.com)
 - NBA salary data taken from [ESPN](http://www.espn.com/nba/salaries)
 
 
