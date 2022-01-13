@@ -113,6 +113,10 @@ The XGBoost model did a great job in correctly predicting hits and non-hits, as 
 
 
 
+To see my project in further detail, please visit my [GitHub Repo](https://github.com/prathapr91/classification_spotify).
+
+
+
 **Tools**
 
 - Pandas for data manipulation
