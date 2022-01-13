@@ -199,6 +199,16 @@ This model does have it’s shortcomings, however, as this only takes into accou
 
 
 
+**Conclusion**
+
+Using box-score statistics, it is feasable to build an effective linear regression model to predict NBA player salaries. This model is counterintuitive in that deviations from expected salary provides the real value, since this is where general managers can find "diamonds in the rough" to give their team the edge.
+
+
+
+To enhance this project in the future, I would devise a way to include advanced stats that are not included in the standard box score. Metrics such as team performance on/off the court, opposing field goal percentage, among many others can go a long way in recognizing the impact that intangibles, leadership, and defense bring that aren't properly captured in a model with standard box score statistics.
+
+
+
 To see my project in further detail, please visit my [GitHub Repo](https://github.com/prathapr91/linear_regression_NBA).
 
 
