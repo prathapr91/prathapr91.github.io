@@ -191,7 +191,7 @@ Pascal Siakam is a budding star for the Toronto Raptors. He won Most Improved Pl
 
 
 
-On the other hand, Andrew Wiggins is widely considered a mediocre player. Despite this, the Minnesota Timberwolves rewarded him with a 5 year, $148m contract in 2017. As we can see here, there is a wide disparity between his annual salary and player output, something I’m sure hindered Timberwolves’ ability to add more talent and compete
+On the other hand, Andrew Wiggins is widely considered a mediocre player. Despite this, the Minnesota Timberwolves rewarded him with a 5 year, $148m contract in 2017. As we can see here, there is a wide disparity between his annual salary and player output, something I’m sure hindered Timberwolves’ ability to add more talent and compete.
 
 
 
