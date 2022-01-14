@@ -197,7 +197,3 @@ To see my project in further detail, please visit my [GitHub Repo](https://githu
 
 
 
-**Communication**
-
-A brief deck on my exploration and analysis, along with visualizations.
-
