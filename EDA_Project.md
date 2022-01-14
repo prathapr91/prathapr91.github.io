@@ -2,6 +2,8 @@
 title: EDA Project
 ---
 
+## **Using NYC MTA turnstile Data to Reduce Carbon Footprint**
+
 This is my first project as part of the Metis Data Science Bootcamp. Here, I was tasked with drafting a mock proposal to solve a problem by using the [MTA turnstile dataset](http://web.mta.info/developers/turnstile.html).
 
 
