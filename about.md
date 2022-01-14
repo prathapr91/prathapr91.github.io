@@ -7,9 +7,11 @@ I am a graduate of the Metis Data Science Bootamp and a prospective data scienti
 
 
 
-[Resume](https://drive.google.com/file/d/1SzwcH_vVlvaDO2Vi3eyA2XDWX9n15Fx2/view?usp=sharing)
+I can be reached at prathap.rajaraman@gmail.com. For my other pages, please refer to the below links.
 
-[Email](prathap.rajaraman@gmail.com)
+
+
+[Resume](https://drive.google.com/file/d/1SzwcH_vVlvaDO2Vi3eyA2XDWX9n15Fx2/view?usp=sharing)
 
 [LinkedIn](https://www.linkedin.com/in/prathaprajaraman/)
 
