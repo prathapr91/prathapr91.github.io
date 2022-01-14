@@ -67,7 +67,7 @@ Luckily, basketball-reference has a coder-friendly interface that certainly help
   - Points
   - Year
   - Offensive/defensive rating
-  - Salary.
+  - Salary
 
 - This tool is meant to predict an NBA player's salary. Due to current salary cap and contract regulations, this analysis won't be appropriate for all players. A player's first deal, a rookie contract, is set in stone and superstar athletes are limited by maximum contract provisions. To account for this, I will be flagging these players. For simplicity, I am assuming that players on rookie contracts are under the age of 23 and max contract players are those whose salary is 25% of the cap or greater. Also, I will be filtering out players who played fewer than 10 games in a given season for credibility purposes
 
