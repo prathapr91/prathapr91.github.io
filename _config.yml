@@ -9,7 +9,7 @@ relative_permalinks: false
 
 # Setup
 title:               Prathap Rajaraman
-tagline:             My Data Science Blog
+tagline:             My Data Science Portfolio
 url:                 https://prathapr91.github.io/
 paginate:            5
 baseurl:             https://prathapr91.github.io/
