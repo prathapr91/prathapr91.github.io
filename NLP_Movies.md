@@ -132,7 +132,7 @@ A challenge I faced in unsupervised learning is that there are limited metrics a
 
 
 
-Luckily, the eye test was good enough for me to be happy with most of the feature engineered words and its role in the topic model thus far. Based on the top words for each topic, it was evident that my feature engineered variables of "PopularMove", "BigBudget", and "HighlyRated" all played a key role in the topics, but what about "OldFilm"? Although I did not have the eye test on my side, I was able to piece together a visualization that outlines the usage of "OldFilm" in each topic.
+Luckily, the eye test was good enough for me to be happy with most of the feature engineered words and its role in the topic model thus far. Based on the top words for each topic, it was evident that my feature engineered variables of "PopularMovie", "BigBudget", and "HighlyRated" all played a key role in the topics, but what about "OldFilm"? Although I did not have the eye test on my side, I was able to piece together a visualization that outlines the usage of "OldFilm" in each topic.
 
 
 
